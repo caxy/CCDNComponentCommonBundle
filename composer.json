@@ -1,14 +1,14 @@
 {
-    "name": "codeconsortium/ccdn-component-common-bundle",
+    "name": "caxy/ccdn-component-common-bundle",
     "type": "symfony-bundle",
     "description": "CCDN Component Common Bundle",
     "keywords": ["ccdn", "codeconsortium", "common"],
-    "homepage": "http://github.com/codeconsortium/CCDNComponentCommonBundle",
+    "homepage": "http://github.com/caxy/CCDNComponentCommonBundle",
     "license": "MIT",
     "authors": [
         {
-            "name": "reecefowell",
-            "email": "reece@codeconsortium.com"
+            "name": "jfrankel-caxy",
+            "email": "jfrankel@caxy.com"
         }
     ],
     "minimum-stability": "dev",
